@@ -1,3 +1,7 @@
+## Hovimyynti.com
+
+Git repo for hovimyynti.com wep pages
+
 ## Creator
 
 Riku Kallio is the creator of Hovimyynti.com pages
